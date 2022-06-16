@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Carrito_Tienda/static/css/main.05b073dc.css",
+    "main.js": "/Carrito_Tienda/static/js/main.07371903.js",
+    "index.html": "/Carrito_Tienda/index.html",
+    "main.05b073dc.css.map": "/Carrito_Tienda/static/css/main.05b073dc.css.map",
+    "main.07371903.js.map": "/Carrito_Tienda/static/js/main.07371903.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b073dc.css",
+    "static/js/main.07371903.js"
+  ]
+}
